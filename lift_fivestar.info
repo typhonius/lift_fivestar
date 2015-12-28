@@ -1,0 +1,5 @@
+name = Lift Fivestar
+description = Lift integration with Fivestar module
+core = 7.x
+dependencies[] = fivestar
+scripts[] = lift_fivestar.js
